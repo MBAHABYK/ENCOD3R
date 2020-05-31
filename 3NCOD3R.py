@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#coder by iamsl4y
+#coder by my-pixel
 #this is text encode tool
 
 #library
@@ -257,7 +257,7 @@ elif sys.argv[1] in ["-v"]:
     print("""
 PROGRAM İNFO
 
-Coder by iamsl4y
+Coder by my-pixel
 This tool is hash maker
 """)
 
