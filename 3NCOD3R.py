@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#coder by my-pixel
+#coder by IAMSL4Y
 #this is text encode tool
 
 #library
